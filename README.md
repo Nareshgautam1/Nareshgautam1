@@ -45,5 +45,5 @@ to an organization as a software engineer, as well as grow and develop my own sk
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0709&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Nareshgautam1" height="139" />
 </p>
 
-<a href="https://github.com/shubham0709/github-readme-activity-graph"><img alt="shubhambarore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0709&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+<!-- <a href="https://github.com/shubham0709/github-readme-activity-graph"><img alt="shubhambarore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0709&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/> -->
