@@ -9,7 +9,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 ## Fun Fact 🎈:
 
-- 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
+- 🌱 I’m proficient in <b> HTML CSS .Testing apps , python scripting for api , postman, SQL,jmeter,jira </b>
 
 <!-- - 👨‍💻 All of my projects are available at [https://shubham-barore.netlify.app/](https://shubham-barore.netlify.app/) -->
 
@@ -17,7 +17,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 - 📫 Contact me **nareshgautam.ksp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PE3GpfOAhFflC0oJGvsHosRm9-sd3uO7?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GKZyEXiFURGYxp2iZhwZb3F0c7ezBlI0/view?usp=share_link]
 
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=shubham0709" alt="shubham0709" /></a> -->
@@ -35,7 +35,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/Nareshgautam1/Nareshgautam1/main/github-header-image.png" />
+<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" />
 
 <h2><i>My GitHub Stats</i></h2>
 <br>
