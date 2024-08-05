@@ -37,12 +37,12 @@ to an organization as a software engineer, as well as grow and develop my own sk
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" />
 
-<h2><i>My GitHub Stats</i></h2>
+<h2><i>My GitHub Status</i></h2>
 <br>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham0709&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="NareshGautam1" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0709&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Nareshgautam1" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naresh_kumar&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="NareshGautam1" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh_kumar&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Nareshgautam1" height="139" />
 </p>
 
 <!-- <a href="https://github.com/shubham0709/github-readme-activity-graph"><img alt="shubhambarore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0709&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
